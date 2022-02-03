@@ -1,0 +1,24 @@
+h1{
+    font-weight: bold;
+    font-size: medium;
+    color: blue;
+    text-align: center;
+
+}
+h2{
+
+    font-size: medium;
+    color: blueviolet;
+}
+img{
+display: block;
+margin: auto;
+    height: 100px;
+    width: 100px;
+    border-radius: 20%;
+}
+table,th,td{
+   border: 1px solid black;
+    
+     background-origin: padding-box;
+}
