@@ -12,3 +12,12 @@ h1{
 button:hover{
     background-color: blue;
 }
+h2::first-letter{
+    font-size: 30px;
+}
+::selection{
+    background-color: black;
+}
+h1,h2{
+    color: blue;
+}
