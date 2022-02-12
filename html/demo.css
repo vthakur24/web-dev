@@ -10,7 +10,7 @@ h1{
 }
 
 button:hover{
-    background-color: blue;
+    background-color: rgb(46, 46, 75);
 }
 h2::first-letter{
     font-size: 30px;
@@ -20,4 +20,60 @@ h2::first-letter{
 }
 h1,h2{
     color: blue;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+h1,h2{
+    color: brown;
+}
+form {
+    color: blueviolet;
+}
+button,input{
+
+  color: blue;
+}
+div{
+    width: 700px;
+    height: 350px;
+    background-color: coral;
+}
+#one{
+    background-color: chartreuse;
+   border-width: 3px;
+   border-color: black;
+   border-style: solid;
+   border-left: aqua;
+   box-sizing: border-box;
+   border-radius: 10px;
+   padding-bottom: 3px;
+   padding-top: 10px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+#two{
+    background-color: chocolate;
+    border-width: 3px;
+   border-color: black;
+   border-style: dashed;
+   border-right: blueviolet;
+   box-sizing: border-box;
+   border-radius: 10px;
+   padding-top: 10px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+#three{
+    background-color: cornsilk;
+    border-width: 3px;
+   border-color: black;
+   border-style: solid;
+   box-sizing: border-box;
+   border-radius: 10px;
+   padding-top: 10px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   
 }
