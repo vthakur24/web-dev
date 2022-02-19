@@ -10,12 +10,16 @@ h1{
     margin: 0 auto;
     background-color: blueviolet;
     display: flex;
-      flex-direction: column;
+    flex-direction:row-reverse;
+    flex-basis: 1%;
+    flex-wrap: wrap;
+
     }
 #container div{
     width: 100px;
     height: 100px;
     text-align: center;
+    color: brown;
 }   
 @media(min-width:300px){
     h2{
